@@ -3,7 +3,7 @@
 
 <img src="https://github.com/rpjinu/Obesity_Prediction/blob/main/project_img.png">
 
-# Obesity Classification with Machine Learning 🧑‍⚕️🍏
+# Obesity Classification with Machine Learning 🧑‍⚕️🍏 
 
 This project involves building a **multiclass classification model** to predict different **obesity levels** (Obesity_Type_I, Obesity_Type_III, Obesity_Type_II, etc.) based on various health and lifestyle features. The model is deployed as a **Streamlit web application** for easy interaction and real-time predictions. 🌐💻
 
